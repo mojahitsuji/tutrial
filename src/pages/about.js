@@ -1,5 +1,5 @@
-import * as React from 'react';
-import Layout from '../components/Layout';
+import * as React from 'react'
+import Layout from '../components/Layout'
 
 const aboutPage = () => {
   return (
@@ -10,7 +10,6 @@ const aboutPage = () => {
         </Layout>
     </main>
   );
-  
 };
 
 export default aboutPage;
